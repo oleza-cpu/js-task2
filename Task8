@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <Div>
+        <h1> Hello World</h1>
+    </Div>
+    <script type="text/javascript">
+    
+    
+    let число = 123; 
+
+    console.log("чи є число непарним тризначним, перевірка");
+    let результат = число % 2 !== 0 && число >= 100 && число <= 999;
+
+  
+    console.log("Чи число є непарним тризначним:", результат);
+
+
+        </script>
+</body>
+</html>
