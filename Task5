@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <Div>
+        <h1> Hello World</h1>
+    </Div>
+    <script type="text/javascript">
+    
+    let a = 7; 
+    let b = 3; 
+
+
+    let результат = a > 2 && b <= 3;
+    console.log("a > 2 та b ≤ 3:", результат);
+
+        </script>
+</body>
+</html>
